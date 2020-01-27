@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VucutKitleEndeksi/precache-manifest.95013f0edcbdcc25e9f493df533413b5.js"
+  "/VucutKitleEndeksi/precache-manifest.d24b0c968332a014959dae4af8c76ec6.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cfd43f9a3ed6728f8bb0bac283144d5",
+    "revision": "f8dd7f30e7f4e07a44d042fbf92927ab",
     "url": "/VucutKitleEndeksi/index.html"
   },
   {
-    "revision": "816b0e39021f2acd8306",
+    "revision": "56ec6b23cb08e261adfd",
     "url": "/VucutKitleEndeksi/static/css/main.61f5f102.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VucutKitleEndeksi/static/js/2.cd38e1da.chunk.js.LICENSE"
   },
   {
-    "revision": "816b0e39021f2acd8306",
-    "url": "/VucutKitleEndeksi/static/js/main.08baa7cf.chunk.js"
+    "revision": "56ec6b23cb08e261adfd",
+    "url": "/VucutKitleEndeksi/static/js/main.a59e4089.chunk.js"
   },
   {
     "revision": "646633aeb571a3b586cd",

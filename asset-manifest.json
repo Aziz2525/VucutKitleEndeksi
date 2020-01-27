@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/VucutKitleEndeksi/static/css/main.61f5f102.chunk.css",
-    "main.js": "/VucutKitleEndeksi/static/js/main.08baa7cf.chunk.js",
-    "main.js.map": "/VucutKitleEndeksi/static/js/main.08baa7cf.chunk.js.map",
+    "main.js": "/VucutKitleEndeksi/static/js/main.a59e4089.chunk.js",
+    "main.js.map": "/VucutKitleEndeksi/static/js/main.a59e4089.chunk.js.map",
     "runtime-main.js": "/VucutKitleEndeksi/static/js/runtime-main.6f4ea126.js",
     "runtime-main.js.map": "/VucutKitleEndeksi/static/js/runtime-main.6f4ea126.js.map",
     "static/js/2.cd38e1da.chunk.js": "/VucutKitleEndeksi/static/js/2.cd38e1da.chunk.js",
     "static/js/2.cd38e1da.chunk.js.map": "/VucutKitleEndeksi/static/js/2.cd38e1da.chunk.js.map",
     "index.html": "/VucutKitleEndeksi/index.html",
-    "precache-manifest.95013f0edcbdcc25e9f493df533413b5.js": "/VucutKitleEndeksi/precache-manifest.95013f0edcbdcc25e9f493df533413b5.js",
+    "precache-manifest.d24b0c968332a014959dae4af8c76ec6.js": "/VucutKitleEndeksi/precache-manifest.d24b0c968332a014959dae4af8c76ec6.js",
     "service-worker.js": "/VucutKitleEndeksi/service-worker.js",
     "static/css/main.61f5f102.chunk.css.map": "/VucutKitleEndeksi/static/css/main.61f5f102.chunk.css.map",
     "static/js/2.cd38e1da.chunk.js.LICENSE": "/VucutKitleEndeksi/static/js/2.cd38e1da.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6f4ea126.js",
     "static/js/2.cd38e1da.chunk.js",
     "static/css/main.61f5f102.chunk.css",
-    "static/js/main.08baa7cf.chunk.js"
+    "static/js/main.a59e4089.chunk.js"
   ]
 }
